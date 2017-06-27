@@ -1,7 +1,4 @@
-A construção bela
-=================
-
-### 
+# A construção bela
 
 É claro que para todos a arquitetura está sempre ligada à construção,
 mas nem todo mundo sabe dizer com precisão como se entrelaçam os
@@ -109,17 +106,13 @@ sociedade de serra acima, em São Paulo, caracterizada por ter
 patrocinado as bandeiras de devassamento do sertão.
 
 Essa arquitetura, de indiscutível procedência ibérica, certamente
-espanhola,1 foi repetida à exaustão no Planalto durante duzentos e
+espanhola[^footnote1], foi repetida à exaustão no Planalto durante duzentos e
 cinquenta anos, no mínimo, o que permitiu uma estabilização que lhe deu
 ares de vernaculidade.
 
-![](media/image1.jpeg){width="5.354166666666667in" height="3.125in"}
+(imagem 11)
 
-Ag. Keystone
-
-*Habitação indígena.*
-
-1 De Aracy Amaral, ver especialmente A hispanidade em São Paulo: da Casa
+[^footnote1]: De Aracy Amaral, ver especialmente A hispanidade em São Paulo: da Casa
 Rural à Capela da Santo Antônio, *Barroco* (7): 21–70, 1975.
 
 É certo que no isolamento da São Paulo dos primeiros tempos, isolamento
@@ -139,7 +132,7 @@ socada nos taipais – copiando e recopiando modelos antigos. Queria era
 morar de acordo com os programas inalteráveis havia gerações –
 programas, aliás, quase que desconhecidos em sua integridade nos nossos
 dias. Chegamos mesmo, certa vez, a dizer que a casa bandeirista era
-uma“esfinge semi-decifrada”.2 Hoje, extasiamo-nos frente à monumental
+uma“esfinge semi-decifrada”.[^footnote2] Hoje, extasiamo-nos frente à monumental
 idade serena e cheia de si da Casa do Padre Inácio, em Cotia, por
 exemplo. No entanto, perguntamos, até que ponto seu construtor estava
 realmente imbuído de uma determinação de criar uma obra de arte
@@ -147,13 +140,13 @@ autônoma, vista como um todo? E certo que os ornatos entalhados nos
 cachorros do beiral fronteiro
 são deliberadamente uma ornamentação diferenciadora dão status à fachada, distinguindo-a
 das fachadas
-secundárias e, consequentemente, também poderiam diferenciar a casa das demais vizinhas, destituídas de enfeites entalhados. Até quando, porém, podemos julgar essa providência decorativa como uma intenção plástica desejosa de enquadrar a construção dentro de um possível esquema artístico regional? Enfim, a arquitetura, boa ou má, não se define pelo
+secundárias e, consequentemente, também poderiam diferenciar a casa das demais vizinhas, destituídas de enfeites entalhados. Até quando, 
+porém, podemos julgar essa providência decorativa como uma intenção plástica desejosa de enquadrar a construção dentro de um possível esquemaartístico regional? Enfim, a arquitetura, boa ou má, não se define pelo
 ornato oposto à construção e não nos esqueçamos de que todas as casas
 rurais da época tinham praticamente a mesma
 planta, com variações irrelevantes, e eram construídas segundo a mesma técnica, a taipa de pilão, exaustivamente repetida.
 
-2 LEFÉVRE, Rende e LEMOS, Carlos A. C. *São Paulo, sua arquitetura:
-colônia* e *império,* p.9.
+[^footnote2]: LEFÉVRE, Rende e LEMOS, Carlos A. C. *São Paulo, sua arquitetura: colônia e império,* p.9.
 
 Esse quadro paulista, que também incluiu soberbas recriações, a partir
 de modelos maneiristas europeus, nas obras religiosas, especialmente
@@ -162,13 +155,9 @@ similitudes com o panorama geral formado pelas atrás mencionadas obras
 populares vernáculas do segundo grupo, embora no sincretismo de suas
 soluções formais compareçam componentes eruditos da arquitetura ibérica.
 
-![](media/image2.jpeg){width="6.479166666666667in" height="3.125in"}
+(imagem 13)
 
-*Casa do Sítio do Padre Inácio, Cotia, São Paulo.*
-
-![](media/image3.jpeg){width="3.125in" height="4.395833333333333in"}
-
-*Retábulo do Altar da Capela de Santo Antonio.*
+(imagem 14)
 
 Se pensarmos bem, a esse segundo agrupamento de construções, que podemos
 julgar de validade estética, embora seus autores não estivessem imbuídos
@@ -181,7 +170,7 @@ arquitetônicos propriamente ditos. Hoje é que neles vemos a validade
 artística, contrariando aquele desdém que foi típico do século XIX. Como
 teriam, por exemplo, se comportado os críticos de arte face ao
 monumental Palácio de Cristal, construído pelo fabricante de estufas
-Joseph Paxton3 por encomenda do governo da rainha Victoria para abrigar
+Joseph Paxton[^footnote3] por encomenda do governo da rainha Victoria para abrigar
 a célebre exposição comprovadora de todo o poderio do Império Britânico?
 A simples satisfação de um programa de necessidades – a função
 corretamente expressa – não seria o mérito suficiente ao reconhecimento
@@ -196,10 +185,10 @@ intelectualidade francesa, no caso, comandada pelos poetas parnasianos.
 Roland Barthes em ótimo texto alusivo àquela torre faz pertinentes
 comentários sobre o protesto e transcreve o manifesto, que assim começa:
 *Nous venons, écrivains, sculpteurs, architects, peintres, amateurs,
-passionnés de Ia beauté, jusqu‘ici intacte de Paris, protester de toutes
+passionnés de la beauté, jusqu‘ici intacte de Paris, protester de toutes
 nos forces, de toute notre indignation, au nom du gôut français méconnu,
-au nom de I’art et de I’histoire françaises menacées, contre I’erection,
-en plein coeur de notre capitale, de I’inutile et monstrueuse Tour
+au nom de l’art et de l’histoire françaises menacées, contre l’erection,
+en plein coeur de notre capitale, de l’inutile et monstrueuse Tour
 Eiffel*. Entre os assinantes dessa “Protestation des Artistes”
 figuravam, por exemplo, Ernest Meissomier, Charles Gounod, Charles
 Garnier, Alexandre Dumas, filho, François Coppée, Leconte de Lisle,
@@ -213,7 +202,7 @@ particulares de engenheiro, ligados à geometria, às formas puras, aos
 volumes derivados de equações cuja dedução lhe haviam dado prazer e
 possibilitado sensibilização espiritual.
 
-3 O “Crystal Palace” foi projetado por Joseph Paxton para a “Great
+[^footnote3]: O “Crystal Palace” foi projetado por Joseph Paxton para a “Great
 Exhibition of the Works of Industry of Ali Nations”, em Londres, 1851. A
 primeira construção deu-se no Hyde Park e a segunda em Lydenham,
 Londres, 1852–54, tendo sido destruída em 1936 por um incêndio.
@@ -226,13 +215,9 @@ surgindo um novo modo de olhar as coisas, que enfatizava as recentes
 concepções estruturais e toda a sua potencialidade. Novos
 programas de necessidades eram satisfeitos por novas técnicas.
 
-![](media/image4.jpeg){width="4.15625in" height="3.125in"}
+(imagem 16)
 
-*Palácio de cristal, Londres.*
-
-![](media/image5.jpeg){width="3.5520833333333335in" height="4.875in"}
-
-*Torre Eiffel.*
+(imagem 17)
 
 Deu-se o surgimento de uma “arquitetura paralela” decorrente dessa visão
 ligada ao racionalismo tecnicista – visão essa que, no modernismo, chega
@@ -270,7 +255,7 @@ Avenida Central, hoje Rio Branco, no Rio, houve um concurso entre
 arquitetos somente para a solução das fachadas dos novos edifícios ali
 programados, independentemente das plantas, dos programas, das técnicas
 construtivas, estando unicamente estabelecidos os gabaritos e os metros
-da testada dos lotes.4
+da testada dos lotes.[^footnote4]
 
 Na verdade, fazendo essas considerações sobre o comportamento crítico do
 século XIX, estamos nos adiantando, pois o tema poderá ser melhor
@@ -279,32 +264,28 @@ de interesse maior à divulgação pretendida por este livro. Assim, não
 custa vermos como, ao longo da história, se posicionaram os pensadores a
 respeito da arquitetura.
 
-4 Ver o importante trabalho do Prof. Paulo F. Santos, *Quatro* sé*culos
-de arquitetura,* p. 85, onde se relata com pormenores o tal Concurso
+[^footnote4]: Ver o importante trabalho do Prof. Paulo F. Santos, *Quatro séculos de arquitetura,* p. 85, onde se relata com pormenores o tal Concurso
 Internacional de Fachadas, que se inspirava na anterior experiência
 francesa em Paris, ainda no tempo de Napoleão, durante a construção da
 Rua Rivoli e da Praça Vendôme
 
-A arquitetura ao longo do tempo
-===============================
-
-### 
+# A arquitetura ao longo do tempo
 
 Já por volta de quatrocentos anos antes de Cristo, Platão ligava a
 arquitetura à lógica das construções – a arquitetura não seria uma
 aparência das coisas, mas a coisa em si própria. Dizia ele: “A
 arquitetura e todas as artes manuais implicam numa ciência que tem, por
 assim dizer, sua origem na ação e produzem coisas que só existem por
-causa delas e não existiam antes”.5 Essas coisas, ou melhor, essas
+causa delas e não existiam antes”.[^footnote5] Essas coisas, ou melhor, essas
 construções, baseadas na melhor utilização possível dos blocos de
 mármore, aliavam a tecnologia apropriada a uma indiscutível intenção
 plástica, que ia até os requintes das deformações corretoras das ilusões
 ópticas, definindo, assim, a criação artística. Logo depois,
 Aristóteles corroborava esse pensamento de seu mestre dizendo que a arte
 da arquitetura era o “resultado de certo gênero de produção esclarecida
-pela razão”…6
+pela razão”…[^footnote6]
 
-5 BORISSAVLlEVITCH, M. *Les theories archteciture.,* p. 1–2.
+[^footnote5]: BORISSAVLlEVITCH, M. *Les theories archteciture.,* p. 1–2.
 
 Pelo que hoje sabemos, os filósofos da Grécia não se dedicaram a fundo
 aos problemas estéticos contidos na análise da arquitetura e a ideia
@@ -337,16 +318,9 @@ não passa daquilo que modernamente chamamos de
 harmonia; 4) Simetria (*symmetria*)*, *que era, ao lado da euritmia um dos conceitos fundamentais da estética clássica, também é
 hoje nebulosamente compreendido, inclusive devido ao significado diferente que
 o termo possui em nosso linguajar corrente.
-
-6 I bid., p. 2–3.
-
-![](media/image6.jpeg){width="4.375in" height="3.125in"}
-
-*O templo grego – Parthenon.*
-
 Simetria seria o cálculo das relações, que os gregos chamavam de
 “analogias”, entre as partes de uma construção, cálculo esse
-estabelecido por meio de uma medida comum, denominada“modulus” por
+estabelecido por meio de uma medida comum, denominada “modulus” por
 Vitrúvio; 5) Conveniência (*decor*) é a categoria que trata justamente
 da disposição conveniente de cada uma das partes do edifício segundo as
 necessidades do programa, o destino das dependências, o caráter de seu
@@ -354,7 +328,14 @@ ocupante etc. Trata, inclusive, da unidade de estilo, da “unidade na
 variedade”, onde reside o seu valor estético; 6) Distribuição
 (*distributio*)*,* que trata do “princípio em virtude do qual nada se
 deve empreender fora das possibilidades daquele que faz a obra e segundo
-a comodidade do lugar, controlando tudo com prudência”.7
+a comodidade do lugar, controlando tudo com prudência”.[^footnote7]
+
+[^footnote6]: Ibid., p. 2–3.
+
+
+[^footnote7]: Ibid., p. 54–65.
+
+(imagem 22)
 
 Pelo que vimos, Vitrúvio, nos seus seis princípios, dedicou-se
 praticamente à estética do projeto arquitetõnico, não se referindo a ela
@@ -369,12 +350,10 @@ estética, como dissemos. Aos leigos, depois dele, sobrou a impressão de
 que uma obra arquitetônica é sempre e unicamente uma obra onde interessa
 a beleza aparente, não interessando como foi feita.
 
-7 Ibid., p. 54–65.
-
 Quase quinhentos anos depois de seus escritos, Santo Agostinho (354–430)
 ainda via na “unidade na variedade” o segredo da arquitetura, dizendo
 que a “similitude”, a igualdade e a conveniência das partes do edifício
-reduzem tudo a uma espécie de unidade que contenta a razão”.8
+reduzem tudo a uma espécie de unidade que contenta a razão”.[^footnote8]
 
 A presença de Vitrúvio ainda é constatada nos escritos de Isidoro de
 Sevilha (c. 560–636), que já vê imprescindível na arquitetura a
@@ -383,7 +362,7 @@ planta e respectiva disposição dos fundamentos, a elevação dos muros e a
 ornamentação, quando trata do revestimento dos tetos com placas
 douradas, das paredes com pinturas e dos pisos com mosaicos. Insiste na
 decoração, com gesso ou estuque, realçada com cores, expressando formas
-e figuras diversas: é o que chama de elemento plástico na arquitetura.9
+e figuras diversas: é o que chama de elemento plástico na arquitetura.[^footnote9]
 
 Entrados os anos na Idade Média, vemos os pensadores sempre preocupados
 com a decoração magnificente, enquanto a produção arquitetônica ficava
@@ -396,13 +375,16 @@ não poderá mantê-lo por menos de seis anos de serviço, a não ser que
 seja seu filho legítimo; quando o primeiro tiver trabalhado cinco anos,
 poderá tomar um segundo
 aprendiz. Eles poderão ter tantos ajudantes ou empregados quantos
-quiserem, com a condição de não Ihes ensinar seu oficio.
-Quando o tempo do aprendiz tiver terminado, o mestre-de-obras o levará diante do guarda do ofício e este fará o aprendiz jurar de guardar os usos e costumes do ofício”.10
+quiserem, com a condição de não lhes ensinar seu oficio.
+Quando o tempo do aprendiz tiver terminado, o mestre-de-obras o levará diante do guarda do ofício e este fará o aprendiz jurar de guardar os usos e costumes do ofício”.[^footnote10]
 
-8 Ibid., p.4–5.
+[^footnote8]: Ibid., p.4–5.
 
-9 Livro XIX das Etimologias, citado por BRUYNE, *Estudios de estética
+[^footnote9]: Livro XIX das Etimologias, citado por BRUYNE, *Estudios de estética
 medieval,* v.1, p. 102.
+
+[^footnote10]: PI LLI ON, L. L *Maítres d’oeuvre et tailleurs de piere des
+cathédrales,* p. 72.
 
 Tais homens, responsáveis pela arquitetura gótica, no entanto, possuíam
 suas justificativas para a rica ornamentação sempre criticada e tiveram
@@ -424,13 +406,11 @@ ascendam à verdadeira luz da qual Cristo é a porta. Tudo aquilo que
 resplandece aqui dentro pressagia a porta dourada: assim, por meio da
 beleza sensível, a alma agravada se eleva à verdadeira beleza e, da
 terra onde jazia submersa,
-ressuscita ao céu, vendo a luz destes esplendores.” 11 Sobre o vitral
+ressuscita ao céu, vendo a luz destes esplendores.” [^footnote11] Sobre o vitral
 das catedrais góticas, dizia o abade: “o vitral tem três
 propriedades básicas – suporte de imagens sacras, material de riqueza
-intrínseca, assemelhando-se és pedras preciosas, e um mistério, pois fulgura sem que haja fogo”.12
+intrínseca, assemelhando-se és pedras preciosas, e um mistério, pois fulgura sem que haja fogo”.[^footnote12]
 
-10 PI LLI ON, L. L *Maítres d’oeuvre et tailleurs de piere des
-cathédrales,* p. 72.
 
 Assim, a arquitetura gótica, desenvolvida para a glória de Deus, foi uma
 verdadeira integração entre a ciência e as artes, pois a estereotomia
@@ -452,13 +432,11 @@ arquitetura realmente ímpar e esse fato nos interessa muito porque
 encerra um processo de criação artística totalmente baseado num sistema
 construtivo e nunca mais aproveitado, mesmo quando houve o Renascimento.
 
-11 BRUYNE, *Estudios de estética medieval,* v. 2, p. 51–4.
+[^footnote11]: BRUYNE, *Estudios de estética medieval,* v. 2, p. 51–4.
 
-12 BRANNER, R. *Gothic architeture,* p. 21.
+[^footnote12]: BRANNER, R. *Gothic architeture,* p. 21.
 
-![](media/image7.jpeg){width="3.5in" height="4.822916666666667in"}
-
-*O domo de Colonia: uma das maiores catedrais góticas da Alemanha.*
+(imagem 27)
 
 O Renascimento, aparecido na Itália, país que bem ou mal guardara os
 vestígios da cultura clássica, fez ressurgir a estética de Vitrúvio e
@@ -502,11 +480,9 @@ programas jamais suspeitados pelos velhos arquitetos, como os programas�
 “estilo” seriam as gares de embarque e desembarque de passageiros? Já de
 início houve a tentativa de se decorar, de
 se ornamentar os perfis pré-moldados das estruturas metálicas com o
-escopo de Ihes dar a dignidade da arquitetura ortodoxa.
+escopo de lhes dar a dignidade da arquitetura ortodoxa.
 
-![](media/image8.jpeg){width="4.166666666666667in" height="3.125in"}
-
-*O domo de Florença: exemplo de arquitetura renascentista.*
+(imagem 29)
 
 A partir dessa época é que se definiu completamente a separação entre o
 arquiteto e o engenheiro, a que já nos referimos linhas atrás, e desse
@@ -515,9 +491,9 @@ arquitetura, principalmente as de intelectuais que tiveram a
 possibilidade de ampla divulgação de suas ideias, incutindo nos leitores
 visões românticas, onde estão, amiúde, comparações com a música. Goethe
 (1749–1832), por exemplo, dizia que “arquitetura é música
-petrificada”,13 enquanto Schelling (1775–1854) não deixava por menos,
+petrificada”,[^footnote13] enquanto Schelling (1775–1854) não deixava por menos,
 proclamando que a “arquitetura é a forma artística inorgânica da música
-plástica”.14 De qualquer forma, a demanda popular estava condicionada à
+plástica”.[^footnote14] De qualquer forma, a demanda popular estava condicionada à
 orquestração dos ornatos dispostos ao longo dos paramentos frios de
 tijolos, o que não impediu logicamente que os tratadistas de arquitetura
 olhassem com atenção a presença da máquina, as conveniências das funções
@@ -527,13 +503,11 @@ Na França, país que nos orientou tanto no século XIX, dois pensadores
 arquitetos expuseram suas teorias, segundo dois enfoques, mas antevendo
 a teorização da arquitetura moderna.
 
-13 BADRA, M. *Notas* à *teoria da arquitetura,* p. 11.
+[^footnote13]: BADRA, M. *Notas à teoria da arquitetura,* p. 11.
 
-14 BORISSAVLlEVITCH, M. op. cit., p. 13.
+[^footnote14]: BORISSAVLlEVITCH, M. op. cit., p. 13.
 
-![](media/image9.jpeg){width="4.489583333333333in" height="3.125in"}
-
-*Igreja de Madeleine em Paris – estilo neoclássico.*
+(imagem 31)
 
 Um deles foi Eugêne Emmanuel Viollet-Le-Duc (1814–1880), o grande esteta
 de seu tempo, que conseguiu dispensar de seus raciocínios a presença até
@@ -545,19 +519,19 @@ francês, ao contrário, foi buscar a beleza nas relações geométricas e
 graficamente determinava, ou comprovava, as leis da harmonia que
 engrandeciam a composição arquitetônica. Sua “teoria do triangulo” foi
 uma inovação e para ele naquela figura geométrica “estava a chave do
-mistério”.15
+mistério”.[^footnote15]
 
-15 Ver a análise da “teoria do triangulo”, de Viollet-Le-Duc, feita por
+[^footnote15]: Ver a análise da “teoria do triangulo”, de Viollet-Le-Duc, feita por
 BORISSAVLIEVITCH, em seu livro Les théories architeture, p. 100.
 
 Enquanto Viollet-Le-Duc se dedicava, na sua teoria da arquitetura, aos
 aspectos meramente estéticos, outro arquiteto francês, Leonce Raymond,
 no seu “Traité d’architecture”, de 1860, já procurava a “verdade” na
 arquitetura, proferindo uma frase lapidar: “O *bom* é o fundamento do
-*belo* e as formas de arte devem ser sempre verdadeiras”.16 Nessa ideia
+*belo* e as formas de arte devem ser sempre verdadeiras”.[^footnote16] Nessa ideia
 é que se apoiou mais tarde o arquiteto teórico Julian Guadet, quando
 formulou o seu princípio fundamental ligado à veracidade
-arquitetônica.17
+arquitetônica.[^footnote17]
 
 Já no final do século XI X e início deste, as definições de arquitetura
 assumiram modo de olhar diverso, fazendo surgir textualmente outro
@@ -565,10 +539,10 @@ protagonista no elenco dos elementos significativos: o espaço. Até
 então, todos ficavam muito presos à construção, às paredes e nelas é que
 procuravam descobrir a beleza, dando razão a Hegel (1770–1831), que
 dizia que o problema da arquitetura consiste “em incorporar à matéria
-uma ideia“. 18 Cremos que foi Auguste Perret (1874–1954) o primeiro a
+uma ideia“. [^footnote18] Cremos que foi Auguste Perret (1874–1954) o primeiro a
 dizer que “arquitetura é a arte de organizar o espaço e é pela
 construção que ela se expressa”. E foi mais longe: “móvel ou imóvel,
-tudo aquilo que ocupa o espaço pertence ao domínio da arquitetura”.19
+tudo aquilo que ocupa o espaço pertence ao domínio da arquitetura”.[^footnote19]
 
 Já entrados no século XX, vários arquitetos se manifestaram sobre sua
 profissão, deixando de lado todo o ranço acadêmico que ainda participava
@@ -576,41 +550,41 @@ nas escolas oficiais, e passaram a elaborar definições onde sempre
 estava enfatizada a verdade favorecendo o espaço belo. Vejamos algumas
 opiniões ilustres:
 
-16 BORRISSAVLlEVITCH, M. op. cit., P. 10.
+[^footnote16]: BORRISSAVLlEVITCH, M. op. cit., P. 10.
 
-17 Ibid., p. 10.
+[^footnote17]: Ibid., p. 10.
 
-18 Ibid., p. 132.
+[^footnote18]: Ibid., p. 132.
 
-19 PERRET, A., *Contribution* à une théorie de I’architeture*,* p.
+[^footnote19]: PERRET, A., *Contribution à une théorie de l’architeture*,* p.
 *s/n.*
 
-*Só a verdade é bela. Em arquitetura a verdade é o produto de cálculos
+>*Só a verdade é bela. Em arquitetura a verdade é o produto de cálculos
 feitos com a finalidade de satisfazer necessidades conhecidas com meios
-conhecidos*. Tony Garnier (1868–1948). 20
+conhecidos*. Tony Garnier (1868–1948). [^footnote20]
 
-*Arquitetura é a vontade da época traduzida em espaço*. Ludwig Mies van
-der Rohe (1886–1969). 21
+>*Arquitetura é a vontade da época traduzida em espaço*. Ludwig Mies van
+der Rohe (1886–1969). [^footnote21]
 
-*Arquitetura é o esforço de harmonizar o ambiente e o homem, tornando o
+>*Arquitetura é o esforço de harmonizar o ambiente e o homem, tornando o
 mundo das coisas uma projeção direta do mundo do espírito*. Antonio
-Sant’Elia (1888–1916). 22
+Sant’Elia (1888–1916). [^footnote22]
 
-*Temos por meta uma arquitetura clara, orgânica, cuja lógica interior
+>*Temos por meta uma arquitetura clara, orgânica, cuja lógica interior
 seja radiante e nua, não atravancada por revestimentos ou truques
 mentirosos; queremos uma arquitetura adaptada ao nosso mundo de
 máquinas, rádios e carros céleres… com a solidez e força crescentes dos
 novos materiais aço, concreto, vidro – e com a nova audácia da
 engenharia, o peso dos antigos métodos de construção está cedendo seu
-lugar a uma nova leveza e seriedade*. Walter Gropius (1883–1969). 23
+lugar a uma nova leveza e seriedade*. Walter Gropius (1883–1969). [^footnote23]
 
-20 BAHAM, R. *Teoria* e *projeto na1ª era da máquina,* p. 61.
+[^footnote20]: BAHAM, R. *Teoria* e *projeto na1ª era da máquina,* p. 61.
 
-21 Ibid., p.428.
+[^footnote21]: Ibid., p.428.
 
-22 BADRA, M. op. cit., p. 23.
+[^footnote22]: BADRA, M. op. cit., p. 23.
 
-23 BANHAM, R. op. cit., p.453.
+[^footnote23]: BANHAM, R. op. cit., p.453.
 
 O arquiteto francês e suíço de nascimento Le Corbusier (1887–1965), cuja
 obra escrita aliada aos seus projetos executados influenciou enormemente
@@ -621,29 +595,27 @@ lembra da música, não a “música petrificada”, mas a música “tempo e
 espaço, como a arquitetura”. “A arquitetura é a síntese das artes
 maiores.
 
-![](media/image10.jpeg){width="3.125in" height="5.020833333333333in"}
+(imagem 34)
 
-*Edifício de Mies van der Rohe (Alexanderplatz – Berlim).*
-
-A arquitetura é forma, volume, cor, acústica, música.” 24 Seu discípulo
+A arquitetura é forma, volume, cor, acústica, música.” [^footnote24] Seu discípulo
 e querido amigo, o arquiteto brasileiro Oscar Niemeyer Soares Filho
 (1907), há muitos anos, talvez 30, antes de Brasília e de toda a sua
 reconhecida produção internacional, já dizia:
 
-A arquitetura no Brasil, ultrapassando o estágio do funcionalismo
+>A arquitetura no Brasil, ultrapassando o estágio do funcionalismo
 ortodoxo, acha-se agora à procura de expressões plásticas. A extrema
 maleabilidade dos atuais métodos de construção, juntamente com nosso
 amor instintivo pela curva – afinidade real ao barroco dos nossos tempos
 coloniais – sugerem as formas livres de um novo e surpreendente
 vocabulário plástico. Criatividade aplicada à solução de problemas
-espaciais, emerge uma verdadeira arquitetura – uma obra de arte real. 25
+espaciais, emerge uma verdadeira arquitetura – uma obra de arte real. [^footnote25]
 
 Lúcio Costa (1902), o grande teórico da arquitetura brasileira, cujos
 textos, principalmente aqueles referentes à nossa arquitetura
 tradicional, são fundamentais ao entendimento de nosso processo
 cultural, diz que uma construção
 
-enquanto satisfaz apenas às exigências técnicas e funcionais – não é
+>enquanto satisfaz apenas às exigências técnicas e funcionais – não é
 ainda arquitetura; quando se perde em intenções meramente decorativas –
 tudo não passa de cenografia; mas quando – popular ou erudita – aquele
 que a ideou pára e hesita ante a
@@ -655,25 +627,20 @@ vai pouco a pouco somando, obedecendo aos mais severos preceitos
 técnicos e funcionais, mas também àquela intenção superior que
 seleciona, coordena e orienta em determinado sentido toda essa massa
 confusa e contraditória de detalhes, transmitindo assim ao
-conjunto ritmo, expressão, unidade e clareza – o que confere à obra o seu caráter de permanência, isto sim é arquitetura. 26
+conjunto ritmo, expressão, unidade e clareza – o que confere à obra o seu caráter de permanência, isto sim é arquitetura. [^footnote26]
 
-24 A primeira definição de arquitetura de LE CORBUSIER está, dentre
+[^footnote24]: A primeira definição de arquitetura de LE CORBUSIER está, dentre
 outros lugares, também em *Teoria* e *projeto na 1ª da máquina,* de
 BANHAM, p. 363; as outras definições, respectivamente in *Le modulor,*
 p.29, e *Ronchamp,* p. 17
 
-25 PAPADAKI, S. *The works of Oscar Niemeyer* p.5.
+[^footnote25]: PAPADAKI, S. *The works of Oscar Niemeyer* p.5.
 
-![](media/image11.jpeg){width="4.614583333333333in" height="3.125in"}
+[^footnote26]: Texto de Lúcio Costa em *Sobre arquitetura,* p. 80.
 
-*Capela de Ronchamp de Le Corbusier.*
+(imagem 36)
 
-26 Texto de Lúcio Costa em *Sobre arquitetura,* p. 80.
-
-O partido arquitetônico
-=======================
-
-### 
+# O partido arquitetônico 
 
 Em nossa atuação na Faculdade de Arquitetura e Urbanismo da Universidade
 de São Paulo, visando mais a uma metodologia de ensino, desdobramos a
@@ -686,7 +653,7 @@ ser detectada mais tarde.
 
 A mencionada definição é a seguinte:
 
-Arquitetura seria, então, toda e qualquer intervenção no meio ambiente
+>Arquitetura seria, então, toda e qualquer intervenção no meio ambiente
 criando novos espaços, quase sempre com determinada intenção
 plástica, para atender a necessidades imediatas ou a expectativas
 programadas, e caracterizada por aquilo que chamamos de partido. Partido
@@ -694,22 +661,22 @@ seria uma consequência formal derivada de uma série de condicionantes ou
 de determinantes; seria o resultado físico da intervenção sugerida. Os
 principais determinantes, ou condicionadores, do partido seriam:
 
-A técnica construtiva, segundo os recursos locais, tanto humanos, como
+>A técnica construtiva, segundo os recursos locais, tanto humanos, como
 materiais, que inclui aquela intenção plástica, às vezes, subordinada
 aos estilos arquitetônicos.
 
-O clima.
+>O clima.
 
-As condições físicas e topográficas do sítio onde se intervém.
+>As condições físicas e topográficas do sítio onde se intervém.
 
-O programa das necessidades, segundo os usos, costumes populares ou
+>O programa das necessidades, segundo os usos, costumes populares ou
 conveniências do empreendedor.
 
-As condições financeiras do empreendedor dentro do quadro econômico da
+>As condições financeiras do empreendedor dentro do quadro econômico da
 sociedade.
 
-A legislação regulamentadora e/ou as normas sociais e/ou as regras da
-funcionalidade.27
+>A legislação regulamentadora e/ou as normas sociais e/ou as regras da
+funcionalidade.[^footnote27]
 
 A primeira coisa que devemos notar é que esses determinantes e
 condicionantes de partido necessariamente mantêm relações entre si e,
@@ -720,7 +687,7 @@ havendo possibilidades de repetições ou de identidades absolutas.
 Queira-se ou não, cada povo, em cada região, terá a sua própria
 arquitetura.
 
-27 LEMOS, Carlos A.C., *Arquitetura brasileira.*
+[^footnote27]: LEMOS, Carlos A.C., *Arquitetura brasileira.*
 
 Hoje, fala-se muito na arquitetura internacional – aquela que se repete
 pelos diversos países, pelas metrópoles em geral – somente possível
@@ -984,12 +951,12 @@ materiais empregados foram selecionados empiricamente por meio da
 experiência milenar de gerações e gerações.
 
 É muito interessante um pequeno ensaio do arquiteto americano James
-Marston Fitch a respeito do clima e da arquitetura a ele adequada.28
+Marston Fitch a respeito do clima e da arquitetura a ele adequada.[^footnote28]
 Suas pertinentes observações nos explicam o porquê dos agenciamentos
 primitivos. A partir dar passamos a entender melhor as casas da Bacia
 Amazônica, do deserto, das serras frias, das planícies de muito vento.
 
-28 O professor americano da Universidade de Columbia, arquiteto James
+[^footnote28]: O professor americano da Universidade de Columbia, arquiteto James
 Marston Fitch, escreveu vários artigos a respeito da problemática do
 clima incidindo sobre o partido arquitetônico, especialmente na
 arquitetura vernácula. Mas foi no seu livro *American building: the
@@ -1041,7 +1008,7 @@ da casa grande nordestina derive da galilé ou dos alpendres das capelas
 rurais da Península Ibérica, notadamente as portuguesas, mas essa tese a
 nós é inconsistente, como também é indefensável a ideia de que as
 ermidas alpendradas brasileiras tenham aquela cobertura fronteira por
-influência das casas grandes.29
+influência das casas grandes.[^footnote29]
 
 Essa polêmica, no entanto, vem nos mostrar um exemplo de persistência
 cultural arraigada nos usos e costumes dos povos, que vem a se tornar um
@@ -1060,11 +1027,9 @@ dando ao pequeno edifício uma característica
 formal peculiar, sem que os leigos hoje atinem com sua origem erudita
 e remota.
 
-29 LEMOS, Carlos A.C. *Notas sobre arquitetura tradicional paulista.*
+[^footnote29]: LEMOS, Carlos A.C. *Notas sobre arquitetura tradicional paulista.*
 
-![](media/image12.jpeg){width="6.5in" height="3.125in"}
-
-*Capela alpendrada rural do Sítio de Santo Antônio.*
+(imagem 51)
 
 Outro exemplo de determinante de partido é a postura legal delimitando e
 controlando as edificações, mormente as urbanas. Toda legislação
@@ -1103,11 +1068,7 @@ vizinho da Espanha tão vaidosa de seus pátios internos
 propiciando ar e luz a todos os cômodos da casa. Talvez estivéssemos à
 frente de algum tabu mouro, quem sabe.
 
-![](media/image13.jpeg){width="3.125in" height="4.8125in"}
-
-*Igreja do Convento de São Francisco (Recife) – Notar a galilé, exemplo
-de persistência cultural, que vem desde os tempos da adoção da basílica
-romana como templo católico.*
+(imagem 53)
 
 Aqui entre nós, só com a nova tecnologia dos profissionais de fora,
 trazidos pela borracha, pela cana e pelo café, no século XIX, é que as
@@ -1179,10 +1140,7 @@ determinantes do partido arquitetônico. Cremos sejam suficientes ao
 entendimento da questão esses poucos que arrolamos. Resta-nos ver é como
 eles devem se comportar naquilo que chamamos de “arquitetura moderna”.
 
-Arquitetura moderna
-===================
-
-### 
+# Arquitetura moderna
 
 A nosso ver, uma arquitetura somente poderá ser considerada moderna
 quando a intenção plástica contida no ato de projetar e, também, os
@@ -1233,9 +1191,7 @@ levantadas dentro da técnica, pluricentenária, da
 alvenaria de tijolos, acompanhada das coberturas de telhas romanas de capa e canal. Puro fingimento acobertando uma incapacidade, até financeira, de se executar a arquitetura aprendida
 nos livros, especialmente os de Le Corbusier.
 
-![](media/image14.jpeg){width="3.125in" height="5.229166666666667in"}
-
-*Detalhe da Casa Tassel de Victor Horta, estilo art-nouveau.*
+(imagem 59)
 
 Se oficialmente nossa arquitetura moderna teve início no final dos anos
 vinte, na prática seu nascimento ocorrera muito antes, na obscuridade de
@@ -1260,9 +1216,7 @@ alcance de todos e
 é até mesmo impossível aqui, se atentarmos aos materiais importados sintéticos, para os pré-moldados em módulos, cuja popularização será difícil, devido aos preços altos e consequente falta
 de estímulo da indústria.
 
-![](media/image15.jpeg){width="3.25in" height="3.125in"}
-
-*Interior art-nouveau da Vila Penteado, antiga FAU.*
+(imagem 61)
 
 Pelo visto, podemos ter, além da arquitetura plenamente moderna, a
 arquitetura a meio do caminho, como já dissemos, para não falarmos
@@ -1335,9 +1289,7 @@ facilitadores da vida, maior a criadagem. E maior, também, a
 possibilidade de se fazer uma perfeita arquitetura moderna e para isso
 não faltam arquitetos de real capacidade.
 
-![](media/image16.jpeg){width="4.645833333333333in" height="3.125in"}
-
-*Casa pobre em desenho de Debret: exemplo de superposição de funções.*
+(imagem 64)
 
 Na casa burguesa de classe média busca-se a identidade formal com a casa
 rica, ficando-se nas aparências e vivendo-se sem conforto nas salas
@@ -1402,9 +1354,7 @@ submissão do empreendedor, no caso, o governo, às vontades dos
 arquitetos Lúcio Costa, o urbanizador e Niemeyer, o corporificador da
 ideia.
 
-![](media/image17.jpeg){width="3.125in" height="3.75in"}
-
-*Igreja de São Francisco – Belo Horizonte (Oscar Niemeyer).*
+(imagem 67)
 
 É claro que a oportunidade de Brasília não surge sempre e sua raridade
 foi plenamente aproveitada por aqueles citados profissionais, que nos
@@ -1429,9 +1379,7 @@ esféricos, para muitos é belo, especialmente aos engenheiros
 especialistas. Não houve a procura apriorística da forma bela; a beleza
 chegou como consequência. Vejam bem: não quisemos dizer, por exemplo,
 que Oscar Niemeyer imaginou inicialmente a forma, ou o volume, do
-Palácio da
-
-Alvorada, para depois meter dentro toda uma programação lógica de uma
+Palácio da Alvorada, para depois meter dentro toda uma programação lógica de uma
 moradia presidencial. Ali, a intenção de se fazer uma obra de arte desde
 o primeiro segundo do ato de criação esteve a guiar a definição do
 partido, somente sujeito às limitações do concreto armado que, por isso,
@@ -1449,9 +1397,7 @@ poderá se extasiar ante a sinfonia de tubos retorcidos. Se extasiará
 como todos se enlevam, também, apreciando toda a parafernália de um
 foguete interplanetário em Cabo Canaveral.
 
-![](media/image18.jpeg){width="4.885416666666667in" height="3.125in"}
-
-*Palácio da Alvorada – Brasília.*
+(imagem 69)
 
 Quando citamos a refinaria de petróleo, fomos buscar um exemplo extremo
 de uma organização espacial eminentemente racionalizada, tendo em vista
@@ -1514,7 +1460,7 @@ parisiense Georges Pompidou, edifício realmente inconcebível há uns dez
 ou vinte anos atrás. E um belo edifício e, no entanto, está com seus
 intestinos à mostra, numa provocação insólita, a demonstrar que a arte
 também é acessível por meio das providências ligadas ao funcionamento
-correto do edifício. A beleza simplesmente resultou. 30
+correto do edifício. A beleza simplesmente resultou. [^footnote30]
 
 Está visto que entre os dois extremos das duas correntes acima expostas
 existem as mil gradações de sempre, a guiar os passos dos arquitetos
@@ -1522,18 +1468,13 @@ modernos. E aqui voltamos à nossa definição inicial: todos tentam
 providenciar construções belas, mas os caminhos dessa providência é que
 não são iguais para todos.
 
-30 Projeto de Renzo Piano e Richard Rogers – 1971. Dentre as várias
+[^footnote30]: Projeto de Renzo Piano e Richard Rogers – 1971. Dentre as várias
 publicações sobre o Cantre Georges Pompidou, veja-se o n 189 da revista
 *L’architeture d’aujourd’hui,* de fevereiro, de 1977.)
 
-![](media/image19.png){width="5.458333333333333in" height="3.125in"}
+(imagem 73)
 
-*Maquete do Centro Georges Pompidou.*
-
-Bibliografia
-============
-
-### 
+# Bibliografia
 
 Amaral, Aracy. *A hispanidade em São Paulo*: da casa rural à Capela de
 Santo Antonio. Barroco, Belo Horizonte (7): 21–70, 1975.
@@ -1547,11 +1488,10 @@ Goldberger Coelho. São Paulo: Perspectiva, 1975. p. 519.
 Barthes, Roland et Martin, André. *La Tour Eiffel.* Berne: Delpire,
 1964.
 
-Borissavlievitch, Milontine. *Les théories de I’architecture*. Paris:
+Borissavlievitch, Milontine. *Les théories de l’architecture*. Paris:
 Payot, 1951, p. 267.
 
-Branner. Robert. *Gotchic architecture*. New York: Braziller, 1971. p.
-125. (The great ages of world architecturel).
+Branner. Robert. *Gotchic architecture*. New York: Braziller, 1971. p. 125. (The great ages of world architecturel).
 
 Bruyne, Edgard de. *Estudios de estética medieval*. Versión de Armando
 Suárez. Madrid: Gredos, c1959. 3o vol. (Biblioteca hispanica de
@@ -1576,8 +1516,7 @@ et Bonne, c1957. p. 117. (Cahiers Forces Vives, no 8).
 Lefèvre, Renée e Lemos, Carlos A.C. *São Paulo, sua arquitetura*:
 colônia e império. São Paulo: Editora Nacional, 1974, p. 138.
 
-Lemos, Carlos A.C. *Arquitetura brasileira*. São Paulo: Melhoramentos,
-1979. p. 158. (Arte e Cultural).
+Lemos, Carlos A.C. *Arquitetura brasileira*. São Paulo: Melhoramentos, 1979. p. 158. (Arte e Cultural).
 
 *Notas sobre a arquitetura tradicional de São Paulo*. São Paulo:
 FAU/USP, 1969.
@@ -1585,7 +1524,7 @@ FAU/USP, 1969.
 Papadaki, Stamo. *The works of Oscar Niemeyer*, With a fore-word by
 Lúcio Costa. New York: Reinhold, c1950. p. 220.
 
-Perret, Auguste. *Contribution à une théorie de I’architecture*. Paris:
+Perret, Auguste. *Contribution à une théorie de l’architecture*. Paris:
 Cercle d’Études Architecturales, 1952. p. 60.
 
 Pilion, Louise Lefrançois. *Maítres d’oeuvre et tailleurs de pierre des
@@ -1597,13 +1536,10 @@ introduction to non-pedigreed architecture. New York: Doubleday, c1964.
 Santos, Paulo Ferreira. *Quatro Séculos de arquitetura*. Barra do Piraí:
 Fundação Educacional Rosemar Pimentel, 1977. p. 136.
 
-Viollet-Le-Duc, N. *Entretiens sur I’architecture*. Ridgewood: N.J.,
+Viollet-Le-Duc, N. *Entretiens sur l’architecture*. Ridgewood: N.J.,
 Gregg Press, 1965, 2o vol.
 
-Sobre o autor
-=============
-
-### 
+# Sobre o autor
 
 Carlos Alberto Cerqueira Lemos, paulistano nascido em 1925, formou-se
 arquiteto em 1950, pela Universidade Mackenzie. Desenvolve inúmeras
