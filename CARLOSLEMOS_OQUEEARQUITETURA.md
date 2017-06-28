@@ -233,7 +233,7 @@ necessidades programáticas o fim primeiro, não havendo anteriormente uma
 intenção plástica – a beleza resultaria de modo natural a quem soubesse
 vê-la.
 
-No primeiro dos jeitos de posicionar a questão, procuravase sempre
+No primeiro dos jeitos de posicionar a questão, procurava-se sempre
 realçar a prioridade da aparência, da parte visível capaz de emocionar
 esteticamente, sendo secundário saber como essa aparência foi
 conseguida. Arquitetura, para muita gente, seria a providência dessa
@@ -338,7 +338,7 @@ a comodidade do lugar, controlando tudo com prudência”.[^footnote7]
 (imagem 22)
 
 Pelo que vimos, Vitrúvio, nos seus seis princípios, dedicou-se
-praticamente à estética do projeto arquitetõnico, não se referindo a ela
+praticamente à estética do projeto arquitetônico, não se referindo a ela
 somente na primeira e na sexta categorias. Os seus “Dez livros de
 arquitetura”, onde trata exaustivamente da arte de construir, são, até
 hoje, analisados pelos teóricos. Sua obra foi considerada a “Bíblia” dos
@@ -421,7 +421,7 @@ a mecânica dos solos e grafoestática até conhecimentos empíricos, é
 verdade, mas corretos, de resistência dos materiais. Cada corte na pedra
 tinha a sua razão de ser, cada pedra com a sua função determinada,
 embora, às vezes, estivesse sugerindo aos leigos ser mera peça gratuita
-da omamentação profusa. Ali tudo era verdade porque também a decoração
+da ornamentação profusa. Ali tudo era verdade porque também a decoração
 era funcional, no sentido prático de propiciar a elevação das almas dos
 crentes perfeitamente condicionados à fé.
 
@@ -842,7 +842,7 @@ torno de suas sedes uma constelação de pequenas construções, todas
 destinadas a atividades, de um modo ou outro, relativas à vida doméstica
 e ao cotidiano da família ali residente. Todos os gêneros alimentícios
 eram manipulados necessariamente em casa. Havia a casa de farinha, o
-monjolo para a cangica, o moinho para o fubá, as baterias de pilões para
+monjolo para a canjica, o moinho para o fubá, as baterias de pilões para
 os cereais em geral, havia a moenda para a cana que fornecia a garapa, o
 melado e o açúcar mascavo doméstico. Derretia-se o toicinho para a
 gordura dos pratos cozidos. Havia a horta, os canteiros de cheiros, os
@@ -1181,7 +1181,7 @@ da letargia e do comodismo construtivo nossas edificações comuns. Logo,
 o novo estilo esteve é participando, como os demais, do decorativismo
 reinante às custas da ornamentação aposta.
 
-Foi por esse caminho da intenção plástica pretenciosa que a arquitetura
+Foi por esse caminho da intenção plástica pretensiosa que a arquitetura
 moderna oficialmente veio a nós. Nossas primeiras construções ditas
 modernas foram executadas nos estilos de vanguarda em moda, no fim da
 década de vinte e início da seguinte, o Cubismo e o Art Deco. Nada mais
@@ -1273,7 +1273,7 @@ arquitetos menos experientes, o que faz pena.
 Hoje, nas grandes cidades, todos moram mal, à míngua de soluções
 lógicas, baratas e acessíveis. Não falemos dos barracos de favelas ou
 dos cubículos de telha vã das casas autoconstruídas da periferia, mas
-lembremo-nos dos palacetes e casas pretenciosas, inspiradas nas mansões
+lembremo-nos dos palacetes e casas pretensiosas, inspiradas nas mansões
 dos ricos. Ricos sempre moram em mansões, como dizem os noticiários dos
 jornais, e essa expressão identifica bem ao povo o plano de comodidade
 ali usufruído: a ausência de superposições e o máximo de conforto.
